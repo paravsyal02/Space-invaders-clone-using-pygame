@@ -128,6 +128,3 @@ If you'd like to contribute to this project, please fork the repository, make yo
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-You can now copy this content into a `README.md` file in your project directory. This will help users set up the game properly, especially if they need to adjust file paths.
